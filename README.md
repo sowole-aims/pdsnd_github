@@ -1,17 +1,15 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+>**Note**: The orginal project is **fork** from the Udacity repository so that I can have a **remote** repository in **my** Github account. The remote repository is then cloned to my local machine. Later, as a part of the project "I first posted my Work on Github", then pushed my proposed changes to the remote repository in my Github account.
 
-### Date created
-Include the date you created this project and README file.
-
+### Date Created
+October 14, 2021
 ### Project Title
-Replace the Project Title
+Project 3: Post your Work on GitHub
 
-### Description
-Describe what your project is about and what it does
+### Project Description
+In this project, the previous Project 2 I did in the Udacity Nanodegree course: **Programming for Data Science with Python**  was posted to my github account using Git.
 
 ### Files used
-Include the files used
-
+The file below contains necessary commands I used to complete the tasks:
+1. Git Commands Documentation.pdf (submitted for evaluation)
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[This git documentation is very useful!](https://git-scm.com/doc)
