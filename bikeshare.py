@@ -3,7 +3,7 @@
     Project File name: bikespare.py
     Author: Oladimeji Samuel Sowole
     Date created: 05/09/2021
-    Date last modified: 13/09/2021
+    Date last modified: 14/10/2021
     
     These are the links I referenced while working on the project:
     1. https://www.python-course.eu/python3_input.php
@@ -263,3 +263,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    print()
