@@ -6,11 +6,10 @@ October 14, 2021
 Post your Work on GitHub
 
 ### Project Description
-In this project, I posted my previous Project 2  in the Udacity Nanodegree course: **Programming for Data Science with Python** using Git.
+In this project, the previous Project 2 in the Udacity Nanodegree course: **Programming for Data Science with Python**  was posted to my github account using Git.
 
 ### Files used
-Include the files used
-
+The following file contains necessary commands used complete the tasks:
+1. Git Commands Documentation.pdf (submitted for evaluation)
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[This git documentation is very useful!](https://git-scm.com/doc)
